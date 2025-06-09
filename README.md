@@ -25,9 +25,13 @@ A Streamlit web application that lets us upload a PDF document and chat with it 
 - python-dotenv
 
 
-## Demo
+## Screenshots
 
-![Demo GIF or Screenshot](path-to-demo-image-or-gif)
+![image](https://github.com/user-attachments/assets/2112e748-5dd2-4287-9706-edb8242f3447)
+
+---
+
+![image](https://github.com/user-attachments/assets/dae98bee-b3aa-4bdc-93a9-fcfbf479cf12)
 
 ---
 
